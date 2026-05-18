@@ -29,10 +29,10 @@ Java 기반의 백엔드 개발을 공부하고 있습니다.
 
 ## 📂 Pinned Projects
 
-* **🔨 Whack-a-Mole** | 인터랙티브 두더지 게임 (C++, Arduin)
-* **🏎️ IoT-SmartCar** | 자율주행 보조 시스템 (C++, Arduino)
+* **🔨 Mole-Game** | 인터랙티브 두더지 게임 (C++, Arduin)
+* **🏎️ SmartCar** | 자율주행 보조 시스템 (C++, Arduino)
 * **🌱 GardenLog** | 반려식물 관리 플랫폼 (Servlet/JSP, MySQL)
-* **✈️ TravelLog** | 여행 일정 기록 및 공유 서비스 (Java Web)
+* **✈️ TravelPlan** | 여행 일정 기록 및 공유 서비스 (Java Web)
 * **🎯 Kkumteul** | 만다르트 목표 관리 플랫폼 (Spring Boot, MySQL)
 
 
